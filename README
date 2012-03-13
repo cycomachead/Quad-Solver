@@ -1,0 +1,8 @@
+Welcome to my iOS Quad Solver! Right now it’s a simple and free app and I’m putting all the code out there for everyone to view, however, please don’t copy it without asking me first. :) I haven’t fully decided on how I want to license the project, so until further notice everything is All Rights Reserved to me, Michael Ball.
+
+However, please to play around with the code and build the app in Xcode or send me a message, or whatever you’d like! 
+
+As far as code and organization goes:
+Quad Solver is the main folder which has all the supporting material, including images and the xcodeproj file.
+Quad Solver 2 is a pretty messed up project that was going to include iPad support. It needs work.
+Quad Solver stuff has some older duplicates of the above as well as a few weeks of sales records before I started using n online service (and after I lost a couple years of records…)
