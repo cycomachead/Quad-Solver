@@ -1,0 +1,422 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* Quad_SolverAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 704}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{181, 275}";
+		};
+	};
+	1D3623250D0F684500981E51 /* Quad_SolverAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 1280}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{558, 265}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Quad Solver */ = {
+		activeExec = 0;
+		executables = (
+			4C47A18E1023F8470017DFCF /* Quad Solver */,
+		);
+	};
+	289233A20DB2D0840083E9F9 /* FlipsideView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 458}}";
+			sepNavSelRange = "{107, 0}";
+			sepNavVisRange = "{0, 184}";
+		};
+	};
+	289233A30DB2D0840083E9F9 /* FlipsideView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 1056}}";
+			sepNavSelRange = "{107, 0}";
+			sepNavVisRange = "{315, 125}";
+			sepNavWindowFrame = "{{3, 4}, {1277, 774}}";
+		};
+	};
+	289233A40DB2D0840083E9F9 /* MainView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 512}}";
+			sepNavSelRange = "{103, 0}";
+			sepNavVisRange = "{3, 197}";
+			sepNavWindowFrame = "{{3, 4}, {1277, 774}}";
+		};
+	};
+	289233A50DB2D0840083E9F9 /* MainView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 1056}}";
+			sepNavSelRange = "{375, 0}";
+			sepNavVisRange = "{0, 266}";
+			sepNavWindowFrame = "{{3, 4}, {1277, 774}}";
+		};
+	};
+	289233A80DB2D0DB0083E9F9 /* MainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 928}}";
+			sepNavSelRange = "{502, 0}";
+			sepNavVisRange = "{327, 424}";
+			sepNavWindowFrame = "{{3, 4}, {1277, 774}}";
+		};
+	};
+	289233A90DB2D0DB0083E9F9 /* MainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 7712}}";
+			sepNavSelRange = "{1548, 0}";
+			sepNavVisRange = "{1840, 396}";
+			sepNavWindowFrame = "{{38, 378}, {1277, 774}}";
+		};
+	};
+	289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 896}}";
+			sepNavSelRange = "{117, 0}";
+			sepNavVisRange = "{193, 332}";
+		};
+	};
+	289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 1856}}";
+			sepNavSelRange = "{117, 0}";
+			sepNavVisRange = "{250, 290}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 4C47A18E1023F8470017DFCF /* Quad Solver */;
+		activeSDKPreference = iphonesimulator4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Quad Solver */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Quad Solver */,
+		);
+		codeSenseManager = 4C47A19C1023F8510017DFCF /* Code sense */;
+		executables = (
+			4C47A18E1023F8470017DFCF /* Quad Solver */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					1349,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					830,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					790,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 319181772;
+			PBXWorkspaceStateSaveDate = 319181772;
+		};
+		perUserProjectItems = {
+			4C2A5FE01069A90C004CC6FA /* PBXTextBookmark */ = 4C2A5FE01069A90C004CC6FA /* PBXTextBookmark */;
+			4C2FA37913065B1700093EB0 /* PBXTextBookmark */ = 4C2FA37913065B1700093EB0 /* PBXTextBookmark */;
+			4C78E9FC12AA1EEF006C8753 /* PBXTextBookmark */ = 4C78E9FC12AA1EEF006C8753 /* PBXTextBookmark */;
+			4CB452CE12675535001DB9F3 /* PBXTextBookmark */ = 4CB452CE12675535001DB9F3 /* PBXTextBookmark */;
+			4CB452CF12675535001DB9F3 /* PlistBookmark */ = 4CB452CF12675535001DB9F3 /* PlistBookmark */;
+			4CB452D012675535001DB9F3 /* PBXTextBookmark */ = 4CB452D012675535001DB9F3 /* PBXTextBookmark */;
+			4CB452D112675535001DB9F3 /* PBXTextBookmark */ = 4CB452D112675535001DB9F3 /* PBXTextBookmark */;
+			4CB452D212675535001DB9F3 /* PBXTextBookmark */ = 4CB452D212675535001DB9F3 /* PBXTextBookmark */;
+			4CB452D312675535001DB9F3 /* PBXTextBookmark */ = 4CB452D312675535001DB9F3 /* PBXTextBookmark */;
+			4CB452D412675535001DB9F3 /* PBXBookmark */ = 4CB452D412675535001DB9F3 /* PBXBookmark */;
+			4CB452D512675535001DB9F3 /* PBXBookmark */ = 4CB452D512675535001DB9F3 /* PBXBookmark */;
+			4CB452D612675535001DB9F3 /* PBXTextBookmark */ = 4CB452D612675535001DB9F3 /* PBXTextBookmark */;
+			4CB452D712675535001DB9F3 /* PBXTextBookmark */ = 4CB452D712675535001DB9F3 /* PBXTextBookmark */;
+			4CB452D812675535001DB9F3 /* PBXTextBookmark */ = 4CB452D812675535001DB9F3 /* PBXTextBookmark */;
+			4CB452D912675535001DB9F3 /* PBXTextBookmark */ = 4CB452D912675535001DB9F3 /* PBXTextBookmark */;
+			4CB452DA12675535001DB9F3 /* PBXBookmark */ = 4CB452DA12675535001DB9F3 /* PBXBookmark */;
+			4CB452DB12675535001DB9F3 /* PlistBookmark */ = 4CB452DB12675535001DB9F3 /* PlistBookmark */;
+			4CB452DC12675535001DB9F3 /* PBXBookmark */ = 4CB452DC12675535001DB9F3 /* PBXBookmark */;
+			4CEA176E11D84652001E0619 /* PBXTextBookmark */ = 4CEA176E11D84652001E0619 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 4C47A19B1023F8510017DFCF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 576}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{3, 360}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Quad_Solver_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 544}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{3, 325}";
+		};
+	};
+	4C2A5FE01069A90C004CC6FA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Quad_SolverAppDelegate.m */;
+		name = "Quad_SolverAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 265;
+		vrLoc = 558;
+	};
+	4C2FA37913065B1700093EB0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		name = "MainViewController.m: 64";
+		rLen = 0;
+		rLoc = 1548;
+		rType = 0;
+		vrLen = 396;
+		vrLoc = 1840;
+	};
+	4C47A18E1023F8470017DFCF /* Quad Solver */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Quad Solver";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	4C47A19B1023F8510017DFCF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	4C47A19C1023F8510017DFCF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4C78E9FC12AA1EEF006C8753 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		name = "MainViewController.m: 64";
+		rLen = 0;
+		rLoc = 1548;
+		rType = 0;
+		vrLen = 142;
+		vrLoc = 6205;
+	};
+	4C9EB397104707910070BA39 /* Entitlements.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, -1}, {1277, 774}}";
+		};
+	};
+	4CB452CE12675535001DB9F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Quad_Solver_Prefix.pch */;
+		name = "Quad_Solver_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 325;
+		vrLoc = 3;
+	};
+	4CB452CF12675535001DB9F3 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Quad_Solver-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Michael/Documents/Quad Solver/Quad_Solver-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	4CB452D012675535001DB9F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A80DB2D0DB0083E9F9 /* MainViewController.h */;
+		name = "MainViewController.h: 20";
+		rLen = 0;
+		rLoc = 502;
+		rType = 0;
+		vrLen = 424;
+		vrLoc = 327;
+	};
+	4CB452D112675535001DB9F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A50DB2D0840083E9F9 /* MainView.m */;
+		name = "MainView.m: 23";
+		rLen = 0;
+		rLoc = 375;
+		rType = 0;
+		vrLen = 266;
+		vrLoc = 0;
+	};
+	4CB452D212675535001DB9F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A40DB2D0840083E9F9 /* MainView.h */;
+		name = "MainView.h: 6";
+		rLen = 0;
+		rLoc = 103;
+		rType = 0;
+		vrLen = 197;
+		vrLoc = 3;
+	};
+	4CB452D312675535001DB9F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 360;
+		vrLoc = 3;
+	};
+	4CB452D412675535001DB9F3 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4CA382CA11D9A3190041BD0E /* icon@2x.png */;
+	};
+	4CB452D512675535001DB9F3 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4C47A1B01023F9E30017DFCF /* icon.png */;
+	};
+	4CB452D612675535001DB9F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */;
+		name = "FlipsideViewController.m: 6";
+		rLen = 0;
+		rLoc = 117;
+		rType = 0;
+		vrLen = 290;
+		vrLoc = 250;
+	};
+	4CB452D712675535001DB9F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */;
+		name = "FlipsideViewController.h: 6";
+		rLen = 0;
+		rLoc = 117;
+		rType = 0;
+		vrLen = 332;
+		vrLoc = 193;
+	};
+	4CB452D812675535001DB9F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A30DB2D0840083E9F9 /* FlipsideView.m */;
+		name = "FlipsideView.m: 6";
+		rLen = 0;
+		rLoc = 107;
+		rType = 0;
+		vrLen = 125;
+		vrLoc = 315;
+	};
+	4CB452D912675535001DB9F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A20DB2D0840083E9F9 /* FlipsideView.h */;
+		name = "FlipsideView.h: 6";
+		rLen = 0;
+		rLoc = 107;
+		rType = 0;
+		vrLen = 184;
+		vrLoc = 0;
+	};
+	4CB452DA12675535001DB9F3 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4CA382CC11D9AB5E0041BD0E /* Default.png */;
+	};
+	4CB452DB12675535001DB9F3 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 4C9EB395104707730070BA39 /* Entitlements.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Michael/Documents/Quad Solver/Entitlements.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	4CB452DC12675535001DB9F3 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4CA382CD11D9AB5E0041BD0E /* Default@2x.png */;
+	};
+	4CC3852A1296297400F367B0 /* Quad_Solver_iPadTests */ = {
+		activeExec = 0;
+	};
+	4CEA176E11D84652001E0619 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Quad_SolverAppDelegate.h */;
+		name = "Quad_SolverAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 275;
+		vrLoc = 181;
+	};
+	8D1107310486CEB800E47090 /* Quad_Solver-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{3, 4}, {1277, 774}}";
+		};
+	};
+}

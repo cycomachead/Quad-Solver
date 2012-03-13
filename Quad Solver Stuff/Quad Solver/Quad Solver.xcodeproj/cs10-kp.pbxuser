@@ -1,0 +1,252 @@
+// !$*UTF8*$!
+{
+	073BEC09145B426500578C13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 074F7E0B145B41970094493F /* UITextInputTraits.h */;
+		name = "UITextInputTraits.h: 56";
+		rLen = 0;
+		rLoc = 2236;
+		rType = 0;
+		vrLen = 1499;
+		vrLoc = 1077;
+	};
+	073BEC0A145B426500578C13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A80DB2D0DB0083E9F9 /* MainViewController.h */;
+		name = "MainViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 746;
+		vrLoc = 0;
+	};
+	073BEC24145B471000578C13 /* MainViewController.m:175 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 175;
+		modificationTime = 341526288.179288;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	073BEC26145B471200578C13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		name = "MainViewController.m: 177";
+		rLen = 0;
+		rLoc = 5692;
+		rType = 0;
+		vrLen = 582;
+		vrLoc = 5497;
+	};
+	073BEC32145B47D400578C13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		name = "MainViewController.m: 177";
+		rLen = 0;
+		rLoc = 5692;
+		rType = 0;
+		vrLen = 582;
+		vrLoc = 5497;
+	};
+	074F7DF1145B408B0094493F /* Quad Solver */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Quad Solver";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	074F7DF2145B408B0094493F /* Quad Solver for iPad */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Quad Solver for iPad";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	074F7E01145B40AD0094493F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	074F7E02145B40AD0094493F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	074F7E0B145B41970094493F /* UITextInputTraits.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UITextInputTraits.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextInputTraits.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2396.12, 4270}}";
+			sepNavSelRange = "{2236, 0}";
+			sepNavVisRange = "{1077, 1499}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Quad Solver */ = {
+		activeExec = 0;
+		executables = (
+			074F7DF1145B408B0094493F /* Quad Solver */,
+		);
+	};
+	289233A80DB2D0DB0083E9F9 /* MainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2630.92, 945}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 746}";
+		};
+	};
+	289233A90DB2D0DB0083E9F9 /* MainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {5611.07, 9065}}";
+			sepNavSelRange = "{5692, 0}";
+			sepNavVisRange = "{5497, 582}";
+			sepNavWindowFrame = "{{15, 4}, {1905, 1169}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 074F7DF1145B408B0094493F /* Quad Solver */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Quad Solver */;
+		breakpoints = (
+			073BEC24145B471000578C13 /* MainViewController.m:175 */,
+		);
+		codeSenseManager = 074F7E02145B40AD0094493F /* Code sense */;
+		executables = (
+			074F7DF1145B408B0094493F /* Quad Solver */,
+			074F7DF2145B408B0094493F /* Quad Solver for iPad */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1472,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 341524959;
+			PBXWorkspaceStateSaveDate = 341524959;
+		};
+		perUserProjectItems = {
+			073BEC09145B426500578C13 /* PBXTextBookmark */ = 073BEC09145B426500578C13 /* PBXTextBookmark */;
+			073BEC0A145B426500578C13 /* PBXTextBookmark */ = 073BEC0A145B426500578C13 /* PBXTextBookmark */;
+			073BEC26145B471200578C13 /* PBXTextBookmark */ = 073BEC26145B471200578C13 /* PBXTextBookmark */;
+			073BEC32145B47D400578C13 /* PBXTextBookmark */ = 073BEC32145B47D400578C13 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 074F7E01145B40AD0094493F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Quad_Solver_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1846, 1097}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 328}";
+		};
+	};
+	4C75DE601444451400BC9016 /* Quad Solver for iPad */ = {
+		activeExec = 0;
+		executables = (
+			074F7DF2145B408B0094493F /* Quad Solver for iPad */,
+		);
+	};
+	4C75DE821444451400BC9016 /* Quad Solver for iPadTests */ = {
+		activeExec = 0;
+	};
+}
